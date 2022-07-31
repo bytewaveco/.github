@@ -24,4 +24,4 @@ Our website is [https://bytewave.co](https://bytewave.co) if you want to learn m
 
 ##### Sponsors
 
-[<img src="https://github.com/kadengriffith.png?size=32#avatar" alt="kadengriffith" style="border-radius:50%;" />](https://github.com/kadengriffith)
+[<img src="https://github.com/kadengriffith.png" alt="kadengriffith" height="32" style="border-radius:50%;" />](https://github.com/kadengriffith)
