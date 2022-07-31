@@ -1,6 +1,6 @@
-<img src="./assets/img/bytewave-text.png" alt="Bytewave" width="150"/>
+[<img src="./assets/img/bytewave-text.png" alt="Bytewave" width="150"/>](https://bytewave.co)
 
-#### Welcome to the official Bytewave GitHub.
+#### Welcome to the official Bytewave GitHub! :sparkles:
 
 ### About Us
 
