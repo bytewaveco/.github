@@ -1,3 +1,12 @@
+<style>
+img[src$="#avatar"] {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  max-width: 50%;
+}
+</style>
+
 [<img src="./assets/img/bytewave-text.png" alt="Bytewave" width="200"/>](https://bytewave.co)
 
 #### Welcome to the official Bytewave GitHub! :sparkles:
@@ -8,7 +17,7 @@ We are a modern marketing and software company. We deliver high performance tool
 
 You can find our website, business tools, and open-sourced projects here.
 
-## Reach Out
+## How To Reach Us
 
 If you are interested in working with us, or contributing to our open-source projects, please reach out to our [info@bytewave.co](mailto:info@bytewave.co) email address or consult the project's `CONTRIBUTING.md` file.
 
@@ -21,3 +30,7 @@ Our website is [https://bytewave.co](https://bytewave.co) if you want to learn m
 ### Tips and Donations
 
 [<img src="./assets/img/hand-holding-dollar-solid.svg" alt="0xba075089615552aabc7784e084f4b7e6cda7cc53 (bytewave.crypto)" height="32" />](./DONATION.md)
+
+##### Sponsors
+
+[<img src="https://github.com/kadengriffith.png?size=32#avatar" alt="kadengriffith" />](https://github.com/kadengriffith)

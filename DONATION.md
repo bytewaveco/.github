@@ -40,8 +40,4 @@ or
 
 <br/>
 
-We appreciate anything you're willing to donate! We'll place you on the [list below](#bytewave-supporters) whenever we receive a contribution (just be sure to use your GitHub email or include your GitHub email / username in the transfer memo)!
-
-### Bytewave Supporters
-
-[<img src="https://github.com/kadengriffith.png?size=32" alt="kadengriffith" />](https://github.com/kadengriffith)
+We appreciate anything you're willing to donate! We'll place you on the [sponsor list](./README.md#sponsors) whenever we receive a contribution (just be sure to use your GitHub email or include your GitHub email / username in the transfer memo)!
