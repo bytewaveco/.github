@@ -1,12 +1,3 @@
-<style type="text/css">
-img[src$="#avatar"] {
-  display: block;
-  margin: 0 auto;
-  border-radius: 50%;
-  max-width: 50%;
-}
-</style>
-
 [<img src="./assets/img/bytewave-text.png" alt="Bytewave" width="200"/>](https://bytewave.co)
 
 #### Welcome to the official Bytewave GitHub! :sparkles:
@@ -33,4 +24,4 @@ Our website is [https://bytewave.co](https://bytewave.co) if you want to learn m
 
 ##### Sponsors
 
-[<img src="https://github.com/kadengriffith.png?size=32#avatar" alt="kadengriffith" />](https://github.com/kadengriffith)
+[<img src="https://github.com/kadengriffith.png?size=32#avatar" alt="kadengriffith" style="border-radius:50%;" />](https://github.com/kadengriffith)
