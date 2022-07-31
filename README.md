@@ -1,6 +1,6 @@
 <img src="./assets/img/bytewave-text.png" alt="Bytewave" width="150"/>
 
-Welcome to the official Bytewave GitHub.
+#### Welcome to the official Bytewave GitHub.
 
 ### About Us
 
@@ -14,10 +14,8 @@ If you are interested in working with us, or contributing to our open-source pro
 
 Our website is [https://bytewave.co](https://bytewave.co) if you want to learn more about us!
 
-<a href="bytewave.crypto" alt="0xba075089615552aabc7784e084f4b7e6cda7cc53 (bytewave.crypto)" target="_blank">
-<img src="./assets/img/ethereum-brands.svg" alt="drawing" height="32" />
-</a><a href="https://www.facebook.com/bytewaveco" alt="Bytewave's Facebook" target="_blank">
-<img src="./assets/img/square-facebook-brands.svg" alt="drawing" height="32" />
+[<img src="./assets/img/ethereum-brands.svg" alt="0xba075089615552aabc7784e084f4b7e6cda7cc53 (bytewave.crypto)" height="32" />](./DONATION.md) <a href="https://www.facebook.com/bytewaveco" alt="Bytewave's Facebook" target="_blank">
+<img src="./assets/img/square-facebook-brands.svg" alt="Bytewave's Facebook" height="32" />
 </a> <a href="https://www.instagram.com/bytewaveco" alt="Bytewave's Instagram" target="_blank">
-<img src="./assets/img/square-instagram-brands.svg" alt="drawing" height="32" />
+<img src="./assets/img/square-instagram-brands.svg" alt="Bytewave's Instagram" height="32" />
 </a>
