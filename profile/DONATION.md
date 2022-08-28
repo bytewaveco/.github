@@ -2,17 +2,18 @@
 
 #### We currently accept donations!
 
-Donations directly contribute to the Bytewave staff's coffee fund.
+Donations directly contribute to the Bytewave staff's coffee fund. Donations are
+primarily used to pay for the cost of open-source development.
 
 Who doesn't love coffee?! :coffee:
 
-### Donations via Stripe (USD)
+### Donations
 
-[Official Donation Page](https://buy.stripe.com/28o5m9eyi8QteKkaEE)
+[Official Donation Page](https://ko-fi.com/bytewave)
 
 or
 
-[<img src="https://github.com/bytewaveco/.github/raw/main/profile/assets/img/stripe.png" alt="Official Donation Page" height="128" />](https://buy.stripe.com/28o5m9eyi8QteKkaEE)
+[<img src="https://github.com/bytewaveco/.github/raw/main/profile/assets/img/stripe.png" alt="Official Stripe Donation Page" height="128" />](https://buy.stripe.com/28o5m9eyi8QteKkaEE)
 
 ### Donations via Cryptocurrency
 
@@ -40,4 +41,4 @@ or
 
 <br/>
 
-We appreciate anything you're willing to donate! We'll place you on the [sponsor list](./README.md#sponsors) whenever we receive a contribution (just be sure to use your GitHub email or include your GitHub email / username in the transfer memo)!
+We appreciate anything you're willing to donate!
