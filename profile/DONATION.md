@@ -12,7 +12,7 @@ Who doesn't love coffee?! :coffee:
 
 or
 
-[<img src="./assets/img/stripe.png" alt="Official Donation Page" height="128" />](https://buy.stripe.com/28o5m9eyi8QteKkaEE)
+[<img src="https://github.com/bytewaveco/.github/raw/main/profile/assets/img/stripe.png" alt="Official Donation Page" height="128" />](https://buy.stripe.com/28o5m9eyi8QteKkaEE)
 
 ### Donations via Cryptocurrency
 
