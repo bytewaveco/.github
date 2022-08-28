@@ -4,7 +4,7 @@
 
 ## About Us
 
-We are a modern marketing and software company. We deliver high performance tools for business growth with low cost to our clients.
+We are a modern marketing and software company. We deliver high-performance tools for business growth at a low cost to our clients.
 
 You can find our website, business tools, and open-sourced projects here.
 
