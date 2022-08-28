@@ -10,7 +10,7 @@ You can find our website, business tools, and open-sourced projects here.
 
 ## How To Reach Us
 
-If you are interested in working with us, or contributing to our open-source projects, please reach out to our [info@bytewave.co](mailto:info@bytewave.co) email address or consult the project's `CONTRIBUTING.md` file.
+If you are interested in working with us or contributing to our open-source projects, please reach out to our [info@bytewave.co](mailto:info@bytewave.co) email address or consult the project's `CONTRIBUTING.md` file.
 
 Our website is [https://bytewave.co](https://bytewave.co) if you want to learn more about us!
 
@@ -18,10 +18,6 @@ Our website is [https://bytewave.co](https://bytewave.co) if you want to learn m
 
 [<img src="https://raw.githubusercontent.com/bytewaveco/.github/main/profile/assets/img/square-facebook-brands.svg" alt="Bytewave's Facebook" height="32" />](https://www.facebook.com/bytewaveco) [<img src="https://raw.githubusercontent.com/bytewaveco/.github/main/profile/assets/img/square-instagram-brands.svg" alt="Bytewave's Instagram" height="32" />](https://www.instagram.com/bytewaveco)
 
-### Tips and Donations
+### Donations
 
-[<img src="https://raw.githubusercontent.com/bytewaveco/.github/main/profile/assets/img/hand-holding-dollar-solid.svg" alt="0xba075089615552aabc7784e084f4b7e6cda7cc53 (bytewave.crypto)" height="32" />](./DONATION.md)
-
-##### Sponsors
-
-[<img src="https://github.com/kadengriffith.png" alt="kadengriffith" height="32" style="border-radius:50%;" />](https://github.com/kadengriffith)
+[<img src="https://raw.githubusercontent.com/bytewaveco/.github/main/profile/assets/img/hand-holding-dollar-solid.svg" alt="0xba075089615552aabc7784e084f4b7e6cda7cc53 (bytewave.crypto)" height="32" />](https://github.com/bytewaveco/.github/blob/main/profile/DONATION.md)
