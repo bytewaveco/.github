@@ -9,7 +9,7 @@ Who doesn't love coffee?! :coffee:
 
 ### Donations
 
-[Official Donation Page](https://ko-fi.com/bytewave)
+[Official Donation Page](https://ko-fi.com/bytewaveco)
 
 or
 
